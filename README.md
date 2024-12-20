@@ -35,7 +35,7 @@ This repository focuses on leveraging Monte Carlo Tree Search (MCTS) to develop 
 
 ## Example Gameplay
 
-![GUI Screenshot](./GUI.png)
+![GUI Screenshot](./GUI_2.png)
 
 Play against the AI to experience its strategic prowess firsthand. The GUI makes it easy to interact with the game and test your own strategies.
 
