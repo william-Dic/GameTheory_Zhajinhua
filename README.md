@@ -1,4 +1,4 @@
-# GameTheory\_Zhajinhua
+# MCTS on GameTheory especially Zhajinhua
 
 This repository focuses on leveraging Monte Carlo Tree Search (MCTS) to develop an AI agent for Zhajinhua, an ancient Chinese card game. The AI agent achieves an impressive 90% winning accuracy.
 
