@@ -30,7 +30,7 @@ This repository focuses on leveraging Monte Carlo Tree Search (MCTS) to develop 
 
 1. Start the Game:
    ```bash
-   python src/zhajinhua_simulator.py
+   python zhajinhua_simulator.py
    ```
 
 ## Example Gameplay
