@@ -16,7 +16,6 @@ This repository focuses on leveraging Monte Carlo Tree Search (MCTS) to develop 
   - numpy
   - matplotlib
   - tkinter
-  - other dependencies listed in `requirements.txt`
 
 ## Installation
 
@@ -36,7 +35,7 @@ This repository focuses on leveraging Monte Carlo Tree Search (MCTS) to develop 
 
 ## Example Gameplay
 
-![GUI Screenshot](./GUI.jpg)
+![GUI Screenshot](./GUI.png)
 
 Play against the AI to experience its strategic prowess firsthand. The GUI makes it easy to interact with the game and test your own strategies.
 
